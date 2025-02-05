@@ -1,3 +1,3 @@
 # ParkingApp
-Software Systems Development Parking app..
+Software Systems Development Parking app.
 
